@@ -27,3 +27,5 @@ d2tm/.classpath
 d2tm/.project
 d2tm/.settings*
 /bin/
+/.classpath
+/.project
